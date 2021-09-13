@@ -1,0 +1,1 @@
+// On va surement s'appuyer sur les fonctions permettant de trouver les diviseurs d'un nombre à un moment donné, on va chercher différents moyens d'arriver à nos fin pour ensuite essayer e déterminer lequel est le plus efficace.
